@@ -1,0 +1,7 @@
+#box{
+    height: 20vh;
+    width: 65%;
+    border-radius: 9px;
+    margin: 200px auto;
+    background-color: red;
+}
